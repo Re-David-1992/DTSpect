@@ -57,17 +57,6 @@ hosting prerequisites, and validated limits. Useful early cases include
 duplicate IDs, ambiguous activity reuse, stale model fingerprints, incomplete
 evidence, and replay-safe invocation correlation.
 
-## Research references
-
-Use current primary documentation and record the SDK/host version behind a
-technical claim. The [Azure Skills project](https://github.com/microsoft/azure-skills)
-provides Azure guidance for development agents, and the
-[Microsoft Learn MCP guide](https://learn.microsoft.com/en-us/training/support/mcp-get-started)
-describes agent access to official documentation. These are optional research
-tools, not DTSpect runtime dependencies or evidence that a proposed integration
-works. Consult the [DTS documentation](https://learn.microsoft.com/en-us/azure/durable-task/scheduler/durable-task-scheduler)
-for platform facts and verify assumptions with a targeted experiment.
-
 ## License and conduct
 
 Contributions intentionally submitted for inclusion are under the repository's

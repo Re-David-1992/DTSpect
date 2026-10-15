@@ -1,0 +1,31 @@
+# Local editors and operating systems
+.vs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.user
+*.suo
+
+# Local secrets and runtime configuration
+.env
+.env.*
+!.env.example
+local.settings.json
+*.pfx
+*.p12
+*.key
+
+# Build/test artifacts (future .NET/JavaScript experiments)
+**/bin/
+**/obj/
+TestResults/
+artifacts/
+node_modules/
+dist/
+coverage/
+
+# Python documentation tooling
+__pycache__/
+*.py[cod]
+.venv/
